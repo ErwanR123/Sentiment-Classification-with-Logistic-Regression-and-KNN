@@ -8,14 +8,14 @@ A simple user interface is also provided, allowing users to input custom text an
 
 The dataset used in this project is the **IMDB Dataset of 50K Movie Reviews**, available on Kaggle and labeled for binary sentiment classification.
 
-## 🧠 Key Features
+##  Key Features
 
 - Preprocessing and vectorization of textual data
 - Model training and evaluation using Logistic Regression and KNN
 - Performance comparison using metrics such as Accuracy, F1-score, and Confusion Matrix
 - Interactive sentiment prediction using the final model
 
-## 🔍 Model Evaluation
+## Model Evaluation
 
 After training both models, Logistic Regression showed significantly better performance:
 - Higher accuracy and F1-score
@@ -24,21 +24,11 @@ After training both models, Logistic Regression showed significantly better perf
 
 Therefore, Logistic Regression was selected as the final model for deployment.
 
-## 🛠️ Tech Stack
 
-- Python 3.x
-- Scikit-learn
-- Pandas & NumPy
-- Matplotlib (for optional visualizations)
-- [Optional] Tkinter or Streamlit for the interface
-
-
-📈 Future Improvements
-Integrate more advanced models (e.g., SVM, Random Forest, BERT)
-
-Improve the interface with a web app using Streamlit
-
-Expand the dataset for better generalization
+Future Improvements:
+- Integrate more advanced models (e.g., SVM, Random Forest, BERT)
+- Improve the interface with a web app using Streamlit
+  
 
 Feel free to contribute, open issues, or fork the project!
 
