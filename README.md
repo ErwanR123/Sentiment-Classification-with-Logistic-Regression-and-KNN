@@ -8,6 +8,8 @@ A simple user interface is also provided, allowing users to input custom text an
 
 The dataset used in this project is the **IMDB Dataset of 50K Movie Reviews**, available on Kaggle and labeled for binary sentiment classification.
 
+The goal is to determine whether a review is positive or negative using natural language processing techniques.
+
 ##  Key Features
 
 - Preprocessing and vectorization of textual data
